@@ -1,6 +1,6 @@
 # reminders
 
-This is just a simple project including CRUD REST API operations on Reminer entities.
+This is just a simple project including CRUD REST API operations on Reminder entities.
 
 ## Prerequisites
 
